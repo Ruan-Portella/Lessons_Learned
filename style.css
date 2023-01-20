@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+}
+
+body{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: white;
+    font-size: 16px;
+}
+
+nav{
+    position: fixed;
+}
+
+footer{
+    text-align: center;
+}
+
+.nav-item{
+    position: relative;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    
+}
+
+.principal{
+    background-color: #063647;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.image_title{
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.header{
+    text-align: center;
+}
+
+.tittle{
+    text-align: center;
+    height: 400px;
+     
+}
+
+.main{
+    background-color: #052D3D;
+}
+
+.main_title{
+    padding-top: 40px;
+    text-align: center;
+}
+
+.project{
+    text-align: center;
+    
+}
+
+.img_project{
+    padding-top: 5%;
+    padding-bottom: 1%;
+    width: 40%;
+    
+}
+
+.text_project{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 23%;
+    width: 55%;
+    align-items: center;
+}
+
+.main_footer{
+    background-color: #0E282E;
+}
+
+.image_footer{
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    margin-top: 3%;
+    margin-bottom: 2%;
+
+}
+
+.image_footer1{
+    width: 50px;
+    border-radius: 100%;
+}
+
+.image_footer2{
+  width: 50px;
+  border-radius: 100%;
+}
+
+
